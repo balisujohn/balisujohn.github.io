@@ -2,14 +2,9 @@ title: jbalis webpage
 description: > # this means to ignore newlines until "baseurl:"
   John Balis Blog
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: /balisujohn.github.io/ # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
-
-
-domain: balisujohn.github.io      
-url: https://balisujohn.github.io 
-baseurl: /balisujohn.github.io/      
 
 # Author Settings
 author: John Balis # add your name
