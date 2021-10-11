@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 domain: balisujohn.github.io      
 url: https://balisujohn.github.io 
-#baseurl: /REPOSITORY-NAME/      
+baseurl: /balisujohn.github.io/      
 
 # Author Settings
 author: John Balis # add your name
