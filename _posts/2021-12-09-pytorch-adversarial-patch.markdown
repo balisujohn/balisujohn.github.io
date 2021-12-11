@@ -104,4 +104,4 @@ Special thanks to PyTorch Contributors, Flask Contributors, the authors of Brown
 
 
 ## Feedback
-If you have feedback about this blog-post, feel free to email me at mylastname at wisc dot edu. Alternatively, feel free to directly pull request any corrections to the repository. This whole blog is released under a GPL3.0 license.f
+If you have feedback about this blog-post, feel free to email me at mylastname at wisc dot edu. Alternatively, feel free to directly pull request any corrections to the repository. This whole blog is released under a GPL3.0 license.
