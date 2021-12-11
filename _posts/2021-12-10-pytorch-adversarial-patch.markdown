@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Minimalist PyTorch Physical Adversarial Patch Attack
-date: 2021-12-09 12:54:20 -0300
+date: 2021-12-10 12:54:20 -0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: king_penguin.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
