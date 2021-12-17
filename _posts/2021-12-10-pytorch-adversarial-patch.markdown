@@ -2,7 +2,7 @@
 layout: post
 title: A Minimalist PyTorch Physical Adversarial Patch Attack
 date: 2021-12-10 12:54:20 -0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Visual object classification is a problem of intrinsic interest to humans, other animals, and machines. In line with Moravec’s paradox, this task which seems natural to even relatively simple animal brains proves impossible without specialized and expensive computation. Through the triumph of the deep neural network we can imbue classical computers with the ability to generally understand the appearance of a particular class of object. # Add post description (optional)
 img: king_penguin.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [adversarial, PyTorch]
