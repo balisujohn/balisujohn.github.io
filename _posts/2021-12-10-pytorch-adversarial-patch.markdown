@@ -96,6 +96,10 @@ Here is an attack on the default VGG-16 from PyTorch running on a live webcam fe
 
 ![Live Adversarial Patch]({{site.baseurl}}/assets/img/adversarial-patch/webcam_adversarial_patch.gif){: width="400" }
 
+## Project Collaborators
+John Balis  
+Harshita Singh
+
 
 ## Special Thanks
 
