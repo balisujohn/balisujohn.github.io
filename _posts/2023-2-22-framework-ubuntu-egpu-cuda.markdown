@@ -181,7 +181,7 @@ and if you booted with the egpu plugged in, you should see something like:
         ...
 ````
 
-## Cuda Driver Setup
+## CUDA Driver Setup
 
 I followed the instructions here:
 
@@ -208,7 +208,7 @@ If you see `True`, thats a pretty good sign, you can probably look up other ways
 
 ## Parting Words
 
-Hopefully, this can be the year of the Linux gaming(deep neural network training) laptop. We should aim for an era where Linux is a first class citizien with respect to support for consumer scale high performance computing such as for gaming and (relatively speaking) small scale deep learning. End users who care little for technical setup should be able to have an operating system that respects their freedom, without having to become an expert in high performacne computing card driver installation and debugging. The ease-of-use gap between Windows and Linux has been dissapointing for a long time. I think Michael Hertig and any other egpu-switcher developers deserve a special thanks because egpu-switcher does the heavy lifting here, and the developers were kind enough to release it as free and open source software. 
+Hopefully, this can be the year of the Linux gaming(deep neural network training) laptop. We should aim for an era where Linux is a first class citizen with respect to support for consumer scale high performance computing such as for gaming and (relatively speaking) small scale deep learning. End users who care little for technical setup should be able to have an operating system that respects their freedom, without having to become an expert in high performacne computing card driver installation and debugging. The ease-of-use gap between Windows and Linux has been dissapointing for a long time. I think Michael Hertig and any other egpu-switcher developers deserve a special thanks because egpu-switcher does the heavy lifting here, and the developers were kind enough to release it as free and open source software. 
 
 
 ## Feedback
