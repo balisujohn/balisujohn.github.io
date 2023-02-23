@@ -87,7 +87,7 @@ Which one is your external GPU? [1-2]:
 You want to select the device labeled "nvidia"
 
 
-## Checking Nvidia Driver Instalationf
+## Checking Nvidia Driver Installation
 Once you are done with the egpu-switcher setup, you probably will want to shut down your laptop then reboot it first with the egpu enclosure plugged in then second without it plugged in. You want to make sure the boot works in both cases, and when you run:
 
 ````
