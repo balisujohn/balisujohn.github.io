@@ -2,7 +2,7 @@
 layout: post
 title: Setting up a Razer Core X E-GPU to support CUDA on a Framework Laptop with Ubuntu 22.04
 date: 2023-02-22 16:17:20 -0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: E-GPU driver set up walkthrough # Add post description (optional)
 img: yearofthelinuxgaminglaptop.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [linux, nvidia, egpu, framework, FOSS]
