@@ -49,7 +49,7 @@ I recommend installing the recommended driver using apt. For me it was driver 52
 sudo apt-get install nvidia-driver-XXX
 ````
 
-At this stage, don't try to manually switch the display system over the the graphics card, the apt install is sufficient.
+At this stage, don't try to manually switch the display system over to the graphics card, the apt install is sufficient.
 
 *You should reboot after the nvidia driver install, if your boot is broken, probably time to give up and purge nvidia drivers*
 
@@ -87,7 +87,7 @@ Which one is your external GPU? [1-2]:
 You want to select the device labeled "nvidia"
 
 
-## Sanity Checks
+## Checking Nvidia Driver Instalationf
 Once you are done with the egpu-switcher setup, you probably will want to shut down your laptop then reboot it first with the egpu enclosure plugged in then second without it plugged in. You want to make sure the boot works in both cases, and when you run:
 
 ````
@@ -125,7 +125,7 @@ And when you run it on the boot with the egpu plugged in, you should see somethi
 
 ````
 
-You should also repeat this sanity check after you have set up the cuda drivers. You don't want your laptop to unexpectedly break when you are away from your egpu.
+You should also repeat this check after you have set up the cuda drivers. You don't want your laptop to unexpectedly break when you are away from your egpu.
 
 You can also run the command:
 
@@ -189,7 +189,7 @@ I followed the instructions here:
 
 Fortunately, nothing broke.
 
-## Checking Cuda Functionality With PyTorch
+## Checking CUDA Functionality With PyTorch
 
 ````
 python3 -m venv env
