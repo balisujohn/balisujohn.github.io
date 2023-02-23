@@ -183,6 +183,8 @@ and if you booted with the egpu plugged in, you should see something like:
 
 ## CUDA Driver Setup
 
+You should be in a boot with the e-gpu attached, and confirm that the base nvidia drivers are the active drivers(I don't know if this is necessary, but It's what I did).
+
 I followed the instructions here:
 
 [https://developer.nvidia.com/cuda-downloads](https://developer.nvidia.com/cuda-downloads)
