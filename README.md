@@ -15,3 +15,9 @@ GNU General Public License v3.0
 
 https://github.com/artemsheludko/flexible-jekyll
 https://twitter.com/artemsheludko_
+
+
+
+Mastodon icon used with MIT License from Terence Eden
+https://github.com/edent/SuperTinyIcons 
+https://github.com/edent/SuperTinyIcons/blob/master/LICENSE
